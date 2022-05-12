@@ -1,0 +1,11 @@
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\bin\Debug\Trabajo1.exe.config
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\bin\Debug\Trabajo1.exe
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\bin\Debug\Trabajo1.pdb
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.Form1.resources
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.Properties.Resources.resources
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.exe
+C:\Users\jesus\source\repos\Trabajo1\Trabajo1\obj\Debug\Trabajo1.pdb
